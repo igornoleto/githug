@@ -1,2 +1,2 @@
 # githug-submodule
-This repo only exists to be a submodule as a part of Githug
+This repo only exists to be a submodule as a part of [Githug](https://github.com/Gazler/githug).
